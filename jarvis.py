@@ -19,7 +19,7 @@ def speak(audio):
 
 #wish me wishes the user
 def WishMe():
-    speak("Hello master This is parul nayak. All the processes are initializing.")
+    speak("Hello master This is Friday. All the processes are initializing.")
     time.sleep(1)
     speak("The system is now online, ready to take commands.")
 def takecommand():
