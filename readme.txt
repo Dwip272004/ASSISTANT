@@ -1,3 +1,3 @@
-first run test.py to initialize the pip commands
+first run test.py to install all the pips
 then run the jarvis file
 
